@@ -18,3 +18,5 @@ elif media > 5.0 and media < 6.9:
     
 else:
     print('Aprovado!')
+
+input()
